@@ -1,18 +1,7 @@
-# React + Vite
+Firebase/Firestore Imagens:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Authenticator:
+<img width="1273" height="762" alt="image" src="https://github.com/user-attachments/assets/a97e7440-128e-497e-a6f2-19a84554e32e" />
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
-
-Note: This will impact Vite dev & build performances.
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Firestore:
+<img width="1236" height="761" alt="Captura de tela_17-4-2026_115252_console firebase google com" src="https://github.com/user-attachments/assets/ee781f0d-1623-43cf-ab03-efb39cd369b4" />
